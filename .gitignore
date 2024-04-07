@@ -1,0 +1,8 @@
+results/
+wfn_for_props/results/
+mp2train/
+saved_models/beforechangeatom/
+__pycache__/
+training_wfns/asbase/*.tar
+training_wfns/special/*.tgittar
+*.npz
