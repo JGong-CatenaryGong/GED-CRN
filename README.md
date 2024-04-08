@@ -31,8 +31,6 @@ The script `props_test.py` contains a suite of prediction functions.
 ## Directory structure
 - atomic_wfns: spherical symmetric wavefunctions for atoms in .wfn format
 - training_wfns: wavefunctions for training molecules in .wfn format
-- wfn_for_props\results: prediction results
-- saved_models: trained models
 
 ## Global constant
 The global variables were set in the file `global_constant.py`:
