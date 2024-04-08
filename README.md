@@ -12,7 +12,7 @@ Coded within Python and Rust.
 ## Install the Rust package as a Python module
 Create a virtual environment and install the dependencies.
 
-Under the root directory, run the following command:
+Under the `rust_wfnkit` directory, run the following command:
 ```
     maturin develop
 ```
@@ -26,7 +26,7 @@ Under the root directory, run the following command:
 ```
 
 ## Run the prediction
-The script 'props_test.py' contains a suite of prediction functions.
+The script `props_test.py` contains a suite of prediction functions.
 
 ## Directory structure
 - atomic_wfns: spherical symmetric wavefunctions for atoms in .wfn format
@@ -35,7 +35,7 @@ The script 'props_test.py' contains a suite of prediction functions.
 - saved_models: trained models
 
 ## Global constant
-The global variables were set in the file 'global_constant.py':
+The global variables were set in the file `global_constant.py`:
 - RESOLUTION: the number of sampled grids in one dimension per bohr
 - ELEMENTS: the periodic table of elements
 - BATCH_SIZE: the number of cubes per batch in training process 

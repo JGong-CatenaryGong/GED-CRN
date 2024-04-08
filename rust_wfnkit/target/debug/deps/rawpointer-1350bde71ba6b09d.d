@@ -1,0 +1,7 @@
+/home/jgong/study/new/rust_wfnkit/target/debug/deps/librawpointer-1350bde71ba6b09d.rmeta: /home/jgong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rawpointer-0.2.1/src/lib.rs
+
+/home/jgong/study/new/rust_wfnkit/target/debug/deps/librawpointer-1350bde71ba6b09d.rlib: /home/jgong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rawpointer-0.2.1/src/lib.rs
+
+/home/jgong/study/new/rust_wfnkit/target/debug/deps/rawpointer-1350bde71ba6b09d.d: /home/jgong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rawpointer-0.2.1/src/lib.rs
+
+/home/jgong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rawpointer-0.2.1/src/lib.rs:
